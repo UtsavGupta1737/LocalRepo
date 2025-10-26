@@ -1,0 +1,615 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"mars"
+			],
+			[
+				"hs",
+				"hscore"
+			],
+			[
+				"pipe",
+				"pipe_surf"
+			],
+			[
+				"fa",
+				"flappy"
+			],
+			[
+				"h",
+				"hscore"
+			],
+			[
+				"sc",
+				"score"
+			],
+			[
+				"pipe_",
+				"pipe_list"
+			],
+			[
+				"pip",
+				"pipe_list"
+			],
+			[
+				"coll",
+				"collision"
+			],
+			[
+				"s",
+				"spacing"
+			],
+			[
+				"pi",
+				"pipe_A"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"se",
+				"selection"
+			],
+			[
+				"sel",
+				"selection"
+			],
+			[
+				"def",
+				"defs\tMethod"
+			],
+			[
+				"di",
+				"display_menu"
+			],
+			[
+				"eve",
+				"event_handling"
+			],
+			[
+				"draw_",
+				"draw_menu"
+			],
+			[
+				"e",
+				"event_handling"
+			],
+			[
+				"draw",
+				"draw_grid"
+			],
+			[
+				"Win",
+				"WINDOW_HEIGHT"
+			],
+			[
+				"Wi",
+				"WINDOW_WIDTH"
+			],
+			[
+				"WIND",
+				"WINDOW_HEIGHT"
+			],
+			[
+				"WINDO",
+				"WINDOW_HEIGHT"
+			],
+			[
+				"WND",
+				"WINDOW_HEIGHT"
+			],
+			[
+				"WINDOW",
+				"WINDOW_WIDTH"
+			],
+			[
+				"surf",
+				"surf_height"
+			],
+			[
+				"dra",
+				"draw_grid"
+			],
+			[
+				"grid",
+				"grid_surf"
+			],
+			[
+				"dia",
+				"display_board"
+			],
+			[
+				"cell",
+				"cell_number"
+			],
+			[
+				"check",
+				"check_snake"
+			],
+			[
+				"mouse",
+				"mouse_down"
+			],
+			[
+				"crunch",
+				"crunch_sound"
+			],
+			[
+				"gra",
+				"graphics"
+			],
+			[
+				"scoe",
+				"score_surface"
+			],
+			[
+				"score",
+				"score_text"
+			],
+			[
+				"ga",
+				"game_font"
+			],
+			[
+				"cel",
+				"cell_number"
+			],
+			[
+				"ra",
+				"range"
+			],
+			[
+				"gras",
+				"grass_color"
+			],
+			[
+				"scre",
+				"screen"
+			],
+			[
+				"Foo",
+				"FOOD"
+			],
+			[
+				"ran",
+				"randomise"
+			],
+			[
+				"bo",
+				"body"
+			],
+			[
+				"frui",
+				"fruit_eat"
+			],
+			[
+				"FRUIT",
+				"FRUIT"
+			],
+			[
+				"display",
+				"display_surface"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"cell_",
+				"cell_number"
+			],
+			[
+				"dr",
+				"draw_fruit"
+			],
+			[
+				"F",
+				"Fruit"
+			],
+			[
+				"S",
+				"self"
+			],
+			[
+				"ce",
+				"cell_size"
+			],
+			[
+				"ev",
+				"event"
+			],
+			[
+				"key",
+				"KEYDOWN"
+			],
+			[
+				"VA",
+				"val_2"
+			],
+			[
+				"val_",
+				"val_1"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"main",
+				"main_active"
+			],
+			[
+				"selectio",
+				"selection_index"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"mouse_",
+				"mouse_button"
+			],
+			[
+				"butto",
+				"buttons"
+			],
+			[
+				"mous",
+				"mouse_buttons"
+			],
+			[
+				"menu",
+				"menu_click"
+			],
+			[
+				"button",
+				"button"
+			],
+			[
+				"men",
+				"menu_surf"
+			],
+			[
+				"me",
+				"menu_surf"
+			],
+			[
+				"ai",
+				"ai_coll"
+			],
+			[
+				"get",
+				"get_ticks"
+			],
+			[
+				"event",
+				"event_handling"
+			],
+			[
+				"a",
+				"attack"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"sp",
+				"sp2"
+			],
+			[
+				"rec",
+				"rec2"
+			],
+			[
+				"mo",
+				"mo_rect"
+			],
+			[
+				"colli",
+				"colli_check"
+			],
+			[
+				"rect",
+				"rect_1"
+			],
+			[
+				"ke",
+				"key"
+			],
+			[
+				"create",
+				"create_data"
+			],
+			[
+				"sele",
+				"selection_index"
+			],
+			[
+				"su",
+				"support_surf"
+			],
+			[
+				"WIN",
+				"WINDOW_WIDTH"
+			],
+			[
+				"row",
+				"row"
+			],
+			[
+				"T",
+				"TILE_SIZE"
+			],
+			[
+				"mou",
+				"mouse"
+			],
+			[
+				"pan_",
+				"pan_offset"
+			],
+			[
+				"Ve",
+				"vector"
+			],
+			[
+				"pan",
+				"pan_active"
+			],
+			[
+				"displa",
+				"display_surface"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"packa\t",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Install Package Control"
+			],
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 158.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/HP/Documents/Python/pirate/Code/editor.py",
+		"/C/Users/HP/Documents/Python/Other Module/collision.py",
+		"/C/Users/HP/Documents/Python/Other Module/colli.py",
+		"/C/Users/HP/Documents/Python/Runner/runner.py",
+		"/C/Users/HP/Documents/Python/Other Module/flappy/setting.py",
+		"/C/Users/HP/Documents/Python/Other Module/flappy/flappy.py",
+		"/C/Users/HP/Documents/Python/Other Module/Snake game.py",
+		"/C/Users/HP/Documents/Python/Other Module/GAME.py",
+		"/C/Users/HP/Documents/Python/Other Module/animation.py",
+		"/C/Program Files/Java/jdk-18.0.1.1/bin/f.java",
+		"/C/Users/HP/Documents/Python/Other Module/follow.py",
+		"/C/Users/HP/Documents/Python/Tests/settings.py",
+		"/C/Users/HP/Documents/Python/Tests/menu.py",
+		"/C/Users/HP/Documents/Python/Tests/main.py",
+		"/C/Users/HP/Documents/Python/pydew/code/settings.py",
+		"/C/Users/HP/Documents/Python/pydew/code/player.py",
+		"/C/Users/HP/Documents/Python/pydew/code/level.py",
+		"/C/Users/HP/Documents/Python/Tests/chess.py",
+		"/C/Users/HP/Documents/Python/pydew/code/main.py",
+		"/C/Users/HP/Documents/Python/pydew/code/palyer.py",
+		"/C/Users/HP/Documents/PyDew-Valley-main/PyDew-Valley-main/s2 - basic player/code/player.py",
+		"/C/Users/HP/Documents/PyDew-Valley-main/PyDew-Valley-main/s22 -Trader/code/main.py",
+		"/C/Users/HP/Documents/PyDew-Valley-main/PyDew-Valley-main/s23 - Audio & fixes/code/main.py",
+		"/C/Users/HP/Documents/PyDew-Valley-main/PyDew-Valley-main/s23 - Audio & fixes/code/level.py",
+		"/C/Users/HP/Documents/Python/Tests/grid.py",
+		"/C/Users/HP/Documents/Python/Tests/testgame.PY",
+		"/C/Users/HP/Documents/Python/Tests/TESTGAME.PY",
+		"/C/Users/HP/Documents/Python/Tests/snakes.py",
+		"/C/Users/HP/Documents/PirateMaker-main/01_origin_lines/editor.py",
+		"/C/Users/HP/Documents/PirateMaker-main/01_origin_lines/main.py",
+		"/C/Users/HP/Documents/Python/Tests/pingpong.py",
+		"/C/Users/HP/Documents/Python/Tests/rect.py",
+		"/C/Users/HP/Documents/Python/Tests/TTT.py",
+		"/C/Users/HP/Documents/Python/Tests/snakecopy.py",
+		"/C/Users/HP/Documents/Python/Tests/collison.py",
+		"/C/Users/HP/Documents/Python/Tests/pingpongV2.py",
+		"/C/Users/HP/Documents/Python/Tests/ran.py",
+		"/C/Users/HP/Documents/PirateMaker-main/01_origin_lines/settings.py",
+		"/C/Users/HP/Documents/Python/pirate/Code/settings.py",
+		"/C/Users/HP/Documents/Python/pirate/Code/menu.py",
+		"/C/Users/HP/Documents/Python/pirate/Code/main.py",
+		"/C/Users/HP/Documents/Python/Other Module/pr.py",
+		"/C/Users/HP/Documents/PirateMaker-main/28_finish/main.py",
+		"/C/Users/HP/Documents/PirateMaker-main/03_menu/menu.py",
+		"/C/Users/HP/Documents/PirateMaker-main/28_finish/menu.py",
+		"/C/Users/HP/Documents/Python/Tests/pingpongV2",
+		"/C/Users/HP/Documents/Python/Tests/pingpongv2",
+		"/C/Users/HP/Documents/Python/Tests/class.py",
+		"/C/Users/HP/Documents/Python/Tests/cen.py",
+		"/C/Users/HP/Documents/PirateMaker-main/28_finish/timer.py",
+		"/C/Users/HP/Documents/PirateMaker-main/28_finish/support.py",
+		"/C/Users/HP/Documents/PirateMaker-main/28_finish/sprites.py",
+		"/C/Users/HP/Documents/PirateMaker-main/28_finish/settings.py",
+		"/C/Users/HP/Documents/PirateMaker-main/28_finish/level.py",
+		"/C/Users/HP/Documents/PirateMaker-main/28_finish/editor.py",
+		"/C/Users/HP/Documents/PirateMaker-main/README.md",
+		"/C/Users/HP/Documents/Python/Tests/rect",
+		"/C/Users/HP/Documents/Python/Tests/collision.py",
+		"/C/Users/HP/Documents/Python/Tests/collision",
+		"/C/Users/HP/Documents/Python/Other Module/main.py",
+		"/C/Users/HP/Documents/Python/Other Module/main1.py",
+		"/C/Users/HP/Documents/Python/Other Module/setting.py",
+		"/C/Users/HP/Documents/Python/Other Module/subli.py",
+		"/C/Users/HP/Documents/sub.java",
+		"/C/Users/HP/Documents/collision.py"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": false,
+		"in_selection": true,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "flappy.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 251.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 600.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false,
+	"template_settings":
+	{
+	}
+}

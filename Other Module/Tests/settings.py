@@ -1,0 +1,11 @@
+FPS = 60
+WINDOW_WIDTH = 900
+WINDOW_HEIGHT = 600
+
+COL =   10
+ROW = 	10
+SIZE =  10
+
+LINE_COLOR = 'Black'
+LINE_BG_COLOR = 'White'
+
